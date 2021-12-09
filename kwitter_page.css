@@ -1,0 +1,43 @@
+body
+{
+    background-color: #d8b4a0;
+}
+
+#logout
+{
+    width: 100px;
+    height: 40px;
+    margin-left: 90%;
+    margin-top: 15px;
+    background-color: white;
+}
+
+.header2
+{
+    font-family: 'Yeon Sung';
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+#msg
+{
+    width: 80%;
+}
+
+.input_div_message_page
+{
+    position: fixed;
+    bottom: 5px;
+    width: 100%;
+    background: rgba(255,255,255,0.8);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#send
+{
+    width: 30%;
+}
